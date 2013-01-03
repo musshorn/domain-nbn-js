@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          NBN Burbs
-// @namespace     hahano
+// @namespace     snippet
 // @description	  Shows if/when the suburb will get the NBN on domain.com.au
 // @include       http://www.domain.com.au/*
 // @include       https://www.domain.com.au/*

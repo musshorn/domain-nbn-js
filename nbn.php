@@ -1,4 +1,10 @@
 <?php
+/*
+Database backend for NBN-domain lookup
+
+Recives a GET request (ie, localhost/nbn.php?postcode=1234)
+And returns the status of that area as defined by NBNCo.
+*/
 $mysqli = new mysqli('host','user','password','nbn');
 
 /* check connection */
